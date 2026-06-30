@@ -58,18 +58,29 @@ SIH 2025 Runner-Up (NTRO) · 600+ DSA Problems Solved · HackerRank Gold Badge
 <tr>
 <td width="50%" valign="top">
 
-**🖼️ [Compressly](https://compressly-image-compressor.vercel.app/)**
-Smart browser-based image compressor — no uploads, no accounts. Adjustable quality, real-time size comparison, instant download.
+**☁️ [Keeply](https://keeply-three.vercel.app/)**
+Production-ready cloud storage platform with secure AWS S3 uploads using presigned URLs, folder management, file sharing, search, trash recovery, storage analytics and JWT authentication.
 
-`React` `Vite` `Tailwind CSS`
+`React` `Node.js` `Express` `MongoDB` `AWS S3`
 
-[🔗 Live Demo](https://compressly-image-compressor.vercel.app/) · [📂 GitHub](https://github.com/prakhar4684/compressly-image-compressor)
+**Highlights**
+- 🔐 JWT Authentication
+- ☁️ AWS S3 Private Bucket
+- 🔗 Presigned URL Uploads
+- 📁 Nested Folder Management
+- 🗑️ Trash & Auto Cleanup
+- 🔍 Smart File Search
+- 📊 Storage Usage Dashboard
+- 🚀 Vercel + Render Deployment
+
+[🔗 Live Demo](https://keeply-three.vercel.app/) · [📂 GitHub](https://github.com/prakhar4684/keeply)
 
 </td>
+
 <td width="50%" valign="top">
 
-**🎟️ [Eventora](https://github.com/prakhar4684/event-management-platform-)**
-Full-stack MERN event booking platform. JWT auth, RBAC, OTP verification, admin dashboard with analytics & payment tracking.
+**🎟️ [Eventora](https://event-management-platform-x96b.onrender.com/)**
+Full-stack event management platform featuring JWT authentication, role-based access, event booking, OTP verification, admin dashboard and secure REST APIs.
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -77,31 +88,31 @@ Full-stack MERN event booking platform. JWT auth, RBAC, OTP verification, admin 
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**☁️ Keeply** *(In Progress)*
-MERN + AWS S3 cloud storage platform. Private S3 storage, presigned URLs, JWT auth, folder system, automated cleanup.
+**🖼️ [Compressly](https://compressly-image-compressor.vercel.app/)**
+Browser-based image compression tool with adjustable quality, instant compression and privacy-first processing.
 
-`Node.js` `Express` `MongoDB` `AWS S3`
+`React` `Vite` `Tailwind CSS`
 
-[📂 GitHub](https://github.com/prakhar4684/keeply)
+[🔗 Live Demo](https://compressly-image-compressor.vercel.app/) · [📂 GitHub](https://github.com/prakhar4684/compressly-image-compressor)
 
 </td>
+
 <td width="50%" valign="top">
 
 **🤖 Smart Student Hub**
-AI-powered platform for achievements, certificates & internships. Faculty verification workflow, AI mentor, portfolio generation.
+AI-powered academic platform for achievements, certificates, internships and faculty verification with AI-powered mentoring.
 
-`React.js` `NestJS` `Generative AI`
+`React` `NestJS` `Generative AI`
 
-SIH 2025 Hackathon Project
+🏆 SIH 2025 Runner-Up Project
 
 </td>
 </tr>
 </table>
-
----
 
 ### 📊 GitHub Stats
 
